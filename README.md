@@ -60,15 +60,11 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
    
       - Build presentation deck using Gamma AI
 
-
 ## 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator.
-I break down complex data topics into simple, practical content that actually helps you land a job.
+I’m an aspiring Data Analyst / Data Scientist open to opportunities in analytics and machine learning.
 
- ### 🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
+## 💼 Connect with Me
 
-
-💼 LinkedIn: https://www.linkedin.com/in/saumyasuteshnu-behera-50a478209/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/saumyasuteshnu-behera-50a478209/)
 
 ## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
